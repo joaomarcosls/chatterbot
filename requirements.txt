@@ -2,4 +2,24 @@ chatterbot
 chatterbot_corpus
 pytz
 flask
-# para instalar o requirements.txt precisa colocar no terminal, pip3 install -r requirements.txt
+# para instalar o requirements.txt precisa colocar no terminal, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
