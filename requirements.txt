@@ -2,24 +2,4 @@ chatterbot==1.0.4
 chatterbot_corpus==1.2.0
 pytz
 flask
-# para instalar o requirements.txt precisa colocar no terminal, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# pip3 install -r requirements.txt
