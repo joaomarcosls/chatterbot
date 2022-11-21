@@ -1,16 +1,16 @@
 {
     "conversas": [
         {
-            "mensagens": [ "onde o IFBA está localizado?", "onde fica o IFBA?", "onde vocês funcionam?" ],
-            "resposta": "O IFBA fica localizado na avenida Sérgio Vieria de Mello, 3150, Zabelê"
+            "mensagens": [ "O que faz um contador? " ],
+            "resposta": "A função do contador é executar tarefas das áreas econômicas, tributárias e patrimoniais de pessoa física ou jurídica. Resumidamente, o contador é responsável pela saúde financeira de uma organização, seja ela pública, privada ou sem fins lucrativos."
         },
         {
-            "mensagens": [ "qual o horário de funcionamento?", "que horas vocês ficam abertos?" ],
-            "resposta": "O IFBA funciona pela manhã, tarde e noite"
+            "mensagens": [ "Porque preciso de um contador?" ],
+            "resposta": "Todo o negócio precisa ter a consultoria contábil para que ele se mantenha legalizado, afinal, é necessário pagar impostos para manter a sua empresa saudável e na ativa."
         },
         {
-            "mensagens": [ "que cursos tem no IFBA?", "que cursos o IFBA oferece?" ],
-            "resposta": "O IFBA oferece vários cursos nos segmentos médio, subsequente e graduações.  No momento, eu consigo responder sobre o curso de Sistemas de Informação. Para outros cursos, consulte o site www.ifba.edu.br para mais informações"
+            "mensagens": [ "oque e um mei?" ],
+            "resposta": "A formalização traz uma série de benefícios: além de receber um CNPJ, você passa a ter acesso à previdência e a estímulos como linhas de crédito do governo."
         }
     ]
 }
