@@ -3,13 +3,13 @@ from chatterbot.trainers import ListTrainer
 import json
 
 CONVERSAS = [
-    "/misc/ifba/workspaces/inteligencia artificial/chatterbot/conversas/saudacoes.json",
-    "/misc/ifba/workspaces/inteligencia artificial/chatterbot/conversas/informacoes_basicas.json",
-    "/misc/ifba/workspaces/inteligencia artificial/chatterbot/conversas/sistemas_de_informacao.json"
+    ".\conversas\saudacoes.json",
+    ".\conversas\informacoes_basicas.json"
+  
 ]
 
 def iniciar():
-    robo = ChatBot("Robô de Atendimento do IFBA")
+    robo = ChatBot("Robô de Atendimento Gabriel")
     treinador = ListTrainer(robo)
 
     return treinador
